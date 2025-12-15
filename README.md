@@ -42,14 +42,3 @@ You can interact with the deployed contract directly via a Block Explorer (like 
 **Read Functions:**
 
 * **`getSeed(address user)`:** Retrieves the last generated seed associated with the specified address.
-
-#### 3. Local Development (Optional)
-
-If you wish to deploy or test the contract locally, use the provided Solidity file:
-
-```bash
-# 1. Install dependencies (assuming Hardhat/Foundry)
-npm install
-
-# 2. Compile contract
-npx hardhat compile
