@@ -12,8 +12,8 @@
     "entropy",
     "utility"
   ],
-  "author": "Your Name Here",
-  "license": "MIT",
+  "author": "arawrdn",
+  "license": "Apache",
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^4.0.0",
     "hardhat": "^2.19.4"
