@@ -1,0 +1,21 @@
+{
+  "name": "base-public-entropy-generator",
+  "version": "1.0.0",
+  "description": "A public utility for generating verifiable pseudo-random seeds on the Base network.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "base",
+    "solidity",
+    "entropy",
+    "utility"
+  ],
+  "author": "Your Name Here",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.4"
+  }
+}
